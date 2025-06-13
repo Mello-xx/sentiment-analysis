@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Emotion Detection App</title>
+    <script src="{{ url_for('static', filename='mywebscript.js') }}"></script>
+</head>
+<body>
+    <h1>Emotion Detector</h1>
+
+    <form id="emotionForm">
+        <label for="text">Enter a sentence:</label><br>
+        <input type="text" id="text" name="text" required><br><br>
+        <input type="submit" value="Detect Emotion">
+    </form>
+
+    <h2 id="resultText"></h2>
+</body>
+</html>
