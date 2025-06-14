@@ -14,7 +14,7 @@ sentiment-analysis/
 ├── sentiment.py          # Main Python script
 ├── requirements.txt      # Python dependencies
 ├── README.md             # Project info (this file)
-└── notebook.ipynb        # Jupyter Notebook (if used)
+
 ```
 
 ---
