@@ -72,7 +72,7 @@ Positive
 
 ## 📈 Results / Accuracy
 
-Model Accuracy: **92%** (example)
+Model Accuracy: 80%
 
 Confusion Matrix, precision, recall, and F1 scores shown in the notebook.
 
@@ -89,6 +89,6 @@ You can use:
 
 ## 🙌 Contributions
 
-Pull requests are welcome. For major changes, please open an issue first.
+Pull requests are welcome. For major changes.
 
 
